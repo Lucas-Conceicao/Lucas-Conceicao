@@ -51,5 +51,5 @@ Sou um entusiasta de tecnologia de 19 anos, atualmente cursando **Análise e Des
 
 <p>
   <a href="mailto:lucascr0406@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Lucas Conceição Ricardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/Lucas Conceição Ricardo/](https://www.linkedin.com/in/lucas-concei%C3%A7%C3%A3o-ricardo-498447304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
