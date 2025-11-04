@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Conceição Ricardo 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=339DFF&center=true&vCenter=true&width=435&lines=Analista+e+Desenvolvedor+em+forma%C3%A7%C3%A3o;Entusiasta+de+Dados+e+Tecnologia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=339DFF&center=true&vCenter=true&width=435&lines=Analista+e+Desenvolvedor;Entusiasta+de+Dados+e+Tecnologia" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
