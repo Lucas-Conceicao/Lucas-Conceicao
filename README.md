@@ -69,7 +69,7 @@ _Estou trabalhando em novos projetos para adicionar aqui em breve. Fique de olho
     <img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lucas-concei%C3%A7%C3%A3o-ricardo-498447304" target="_blank">
+  <a href="www.linkedin.com/in/lucas-conceicao-ricardo" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
