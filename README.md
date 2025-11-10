@@ -15,7 +15,7 @@
 Sou um desenvolvedor de 19 anos, cursando **Análise e Desenvolvimento de Sistemas** na FATEC - Baixada Santista. Tenho paixão por resolver problemas e estou sempre em busca de aprender novas tecnologias para criar soluções eficientes e inovadoras.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **FATEC Baixada Santista**.
-- 🌱 Buscando minha **primeira oportunidade** para atuar na área de desenvolvimento.
+- 🌱 Buscando **oportunidade** para atuar na área de desenvolvimento.
 - 🚀 Focado em aprimorar minhas habilidades em **desenvolvimento backend com Java** e **análise de dados**.
 
 <br>
