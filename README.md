@@ -13,7 +13,7 @@ Sou um desenvolvedor de 19 anos, cursando **Análise e Desenvolvimento de Sistem
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,git,java,spring,postgres,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,git,java,spring,postgres,postman,html,css)](https://skillicons.dev)
 
 <br>
 
