@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=339DFF&center=true&vCenter=true&width=435&lines=Analista+e+Desenvolvedor;Entusiasta+de+Dados+e+Tecnologia" alt="Typing SVG" /></a>
 </p>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor de 19 anos, cursando **Análise e Desenvolvimento de Sistemas** na FATEC - Baixada Santista. Tenho paixão por resolver problemas e estou sempre em busca de aprender novas tecnologias para criar soluções eficientes e inovadoras.
 
